@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "463813928233",
+    "firebase_url": "https://fir-app-834d6.firebaseio.com",
+    "project_id": "fir-app-834d6",
+    "storage_bucket": "fir-app-834d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463813928233:android:bb37e4aac9af5384",
+        "android_client_info": {
+          "package_name": "pe.edu.tecsup.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463813928233-jdangjn5d87ggr3k2nbh7br2u9t4kqd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.tecsup.firebaseapp",
+            "certificate_hash": "5a67bfc4c6464fca94186e9f479944139fd95728"
+          }
+        },
+        {
+          "client_id": "463813928233-2sqt368egqn42132ch7hkcbp2re9bk2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6G5PQKZ6m9ZCPNLNMffVTy1EkcYGVp9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463813928233-2sqt368egqn42132ch7hkcbp2re9bk2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
