@@ -7,6 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+import com.facebook.login.LoginManager;
 import com.google.firebase.analytics.FirebaseAnalytics;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -52,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
     private void callLogout(View view){
         Log.d(TAG, "Ssign out user");
         FirebaseAuth.getInstance().signOut();
+        LoginManager.getInstance().logOut();
         finish();
     }
 }
