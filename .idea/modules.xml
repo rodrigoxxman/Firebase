@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Firebase.iml" filepath="$PROJECT_DIR$/Firebase.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Firebase.iml" filepath="$PROJECT_DIR$/.idea/Firebase.iml" />
-      <module fileurl="file://D:\test\Firebase\Firebase\android.iml" filepath="D:\test\Firebase\Firebase\android.iml" />
+      <module fileurl="file://D:/test/Firebase/Firebase/android.iml" filepath="D:/test/Firebase/Firebase/android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\test\Firebase\Firebase\app\app.iml" filepath="D:\test\Firebase\Firebase\app\app.iml" />
+      <module fileurl="file://D:/test/Firebase/Firebase/app/app.iml" filepath="D:/test/Firebase/Firebase/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
